@@ -12,6 +12,7 @@ SpringBoot、SpringData、MySQL、POI
 **源码：** 保密
 
 **效果图：**
+
 1、学校首页效果图
 ![这里写图片描述](https://github.com/jiaoxiangyu/videovPictures/blob/master/office/manage.png)
 
