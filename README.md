@@ -26,7 +26,7 @@ SpringBoot、SpringData、MySQL、POI
 ![这里写图片描述](https://github.com/jiaoxiangyu/videovPictures/blob/master/office/index1.png)
 
 5、学生首页效果图2
-![这里写图片描述](https://github.com/jiaoxiangyu/videovPictures/blob/master/office/index1.png)
+![这里写图片描述](https://github.com/jiaoxiangyu/videovPictures/blob/master/office/index2.png)
 
 6、考试页面效果图1
 ![这里写图片描述](https://github.com/jiaoxiangyu/videovPictures/blob/master/office/exam.png)
