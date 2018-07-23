@@ -5,6 +5,7 @@ SpringBoot、SpringData、MySQL、POI
 
 **简介：**
 基于B/S模式，做一个OFFIC在线测试系统，用OFFICE POI完成对word、excel、ppt的解析，方便在线练习OFFICE试题。
+
 **负责：**
 团队合作完成，负责整个项目的功能分析设计、数据库设计、服务器端的底层基本功能和前后端交互工作等。
 
