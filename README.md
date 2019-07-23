@@ -12,12 +12,11 @@ SpringBoot、SpringData、MySQL、POI
 **源码：** 暂时无法公开
 
 **效果图：**
-
-1、学校首页效果图
-![这里写图片描述](https://github.com/jiaoxiangyu/videovPictures/blob/master/office/manage.png)
-
-2、用户管理效果图
+1、管理员管理效果图
 ![这里写图片描述](https://github.com/jiaoxiangyu/videovPictures/blob/master/office/person.png)
+
+2、学校首页效果图
+![这里写图片描述](https://github.com/jiaoxiangyu/videovPictures/blob/master/office/manage.png)
 
 3、班级首页效果图
 ![这里写图片描述](https://github.com/jiaoxiangyu/videovPictures/blob/master/office/class.png)
